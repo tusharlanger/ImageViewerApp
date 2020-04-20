@@ -1,0 +1,85 @@
+.user-info-container {
+  display: flex;
+  margin-bottom: 40px;
+  padding: 0 30px;
+}
+
+.profile-picture-container {
+  width: 20%;
+  align-self: center;
+}
+
+.profile-image {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  border: 1px solid black;
+  text-align: center;
+  border: 1px solid #dfdfdf;
+}
+
+.information-container {
+  width: 60%;
+}
+
+.username-container {
+  display: flex;
+  margin-bottom: 16px;
+}
+
+.username {
+  font-size: 25px;
+  width: 70%;
+  margin-top: 16px;
+}
+
+.count-container {
+  display: flex;
+  margin-bottom: 16px;
+  font-size: 18px
+}
+
+.posts {
+  width: 200px
+}
+
+.fullname {
+  font-size: 18px;
+  width: 30%;
+  margin-top: 16px;
+  margin-right: 20px;
+}
+
+.image-tile {
+  cursor: pointer;
+}
+
+.image-modal-container {
+  display: flex;
+  width: 800px;
+}
+
+.image-modal-left-container {
+  width: 50%
+}
+
+.image {
+  max-width: 95%;
+  max-height: 95%
+}
+
+.image-modal-right-container {
+  width: 50%;
+  position: relative;
+}
+
+.modal-user-info-container {
+  display: flex;
+}
+
+.user-information {
+  width: 90%;
+  margin-top: 8px;
+  margin-left: 25px;
+  font-size: 15px;
+}

@@ -1,0 +1,71 @@
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.dispNone {
+  display: none;
+}
+
+.dispBlock {
+  display: block;
+}
+
+.red {
+  color: #be4a47;
+}
+
+.black {
+  color: #000;
+}
+
+.error-msg {
+  color: #be4a47;
+  padding-top: 15px;
+  font-size: 13px;
+}
+
+.user-profile-image {
+  border: none;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  text-align: center;
+  align-self: center;
+}
+
+.custom-horizontal-rule {
+  border: 1px solid #dfdfdf;
+  margin: 15px 0;
+}
+
+.hashtags-container {
+  color: #70B7FF;
+  padding: 15px 0;
+}
+
+.likes-container {
+  margin-top: -30px;
+  margin-left: 50px;
+}
+
+.comments-container {
+  padding-top: 20px;
+}
+
+.comment {
+  padding: 3px;
+}
+
+.username-who-commented {
+  font-weight: 700;
+}
+
+.add-comment-container {
+  margin-top: 20px;
+}
+
+.add-comment-formcontrol {
+  width: 75%
+}

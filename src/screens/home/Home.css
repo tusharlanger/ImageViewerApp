@@ -1,0 +1,14 @@
+.images-main-container {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.left-column {
+  width: 50%;
+  padding-right: 20px;
+}
+
+.right-column {
+  width: 50%;
+}
